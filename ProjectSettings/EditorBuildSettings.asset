@@ -4,4 +4,25 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/lo.unity
+    guid: f9db32f10b687d94d89f33eae0a8a2b5
+  - enabled: 1
+    path: Assets/Scene/Nustatymai.unity
+    guid: 0ed53d14d62d9eb4db8000d3f3ecedcc
+  - enabled: 1
+    path: Assets/Scene/PasirinktiLygi.unity
+    guid: 90a0f03dabeba3149a7bdd99e5bc0e7c
+  - enabled: 1
+    path: "Assets/Scene/PirmoLygioTarpin\u0117.unity"
+    guid: 36be5f43945204b4c85e8fe32f999346
+  - enabled: 1
+    path: Assets/Scene/scena1.unity
+    guid: ec196a7ee7cf0d94cb27d7321fa7f0b0
+  - enabled: 1
+    path: Assets/Scene/scena.unity
+    guid: 472acc4444ba7cb4b8747f4c041a417f
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000

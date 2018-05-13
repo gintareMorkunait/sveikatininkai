@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 14
-  productGUID: e8b17cd60554f0d4a9b7735bc4e5c61b
+  productGUID: c62aaee217c19164b8b149b8d774e317
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 4
@@ -12,7 +12,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Zaidimas
+  productName: Logopedinis_zaidimas
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -557,14 +557,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Zaidimas
+  metroPackageName: Logopedinis_zaidimas
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Zaidimas
+  metroApplicationDescription: Logopedinis_zaidimas
   wsaImages: {}
   metroTileShortName: 
   metroCommandLineArgsFile: 
@@ -633,9 +633,9 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 01e9963a-022b-457a-9e42-ee5e12f67038
-  projectName: Zaidimas
-  organizationId: unity_nhyofyuadvaqoa
+  cloudProjectId: 6b11c99c-b3d4-498c-a57c-ddce930e9690
+  projectName: Logopedinis_zaidimas
+  organizationId: gerdeliukstis
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
